@@ -9,9 +9,10 @@
 </div>
 
 ## Bidirectional Scripts
-<p>Bidirectional Scripts is written from right fo left, except for the number such as Hebrew, Yiddish, Judezmo, Arabic, Persian, Urdu, Pashto, Sindhi, Kurdish, Syriac, Dhivehi, ...</p>
-<p> Mainly writtren from Right to Left despite to Latin and others that written from Left to Right.</p>
-<ul>
-- [RTL: RTL languages display content from right to left]
-- [LTR: LTR languages display content from left to right]
-</ul>
+<p>Bidirectional Scripts is written from right to left  except for the number,  such as Hebrew, Yiddish, Judezmo, Arabic, Persian, Urdu, Pashto, Sindhi, Kurdish, Syriac, Dhivehi.</p>
+
+
+ - RTL : RTL languages display content from right to left.
+ - LTR:  LTR languages display content from left to right.
+
+<p> UIs for languages that are read from right-to-left (RTL) should be mirrored to ensure content is easy to understand. </p>
