@@ -10,4 +10,8 @@
 
 ## Bidirectional Scripts
 <p>Bidirectional Scripts is written from right fo left, except for the number such as Hebrew, Yiddish, Judezmo, Arabic, Persian, Urdu, Pashto, Sindhi, Kurdish, Syriac, Dhivehi, ...</p>
-<p> Mainly writtren from Right to Left despite to Latin and others that written from Left to Right>
+<p> Mainly writtren from Right to Left despite to Latin and others that written from Left to Right</p>
+<ul>
+<i>RTL:</i>
+<i>LTR:</i>
+</ul>
