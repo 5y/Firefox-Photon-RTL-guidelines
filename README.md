@@ -16,3 +16,8 @@
  - LTR:  LTR languages display content from left to right.
 
 <p> UIs for languages that are read from right-to-left (RTL) should be mirrored to ensure content is easy to understand. </p>
+
+→ Bidirectional
+
+<p> RTL content also affects the direction in which some icons and images are displayed, particularly those depicting a sequence of events.</p>
+<p>In general, the passage of time is depicted as left to right for LTR languages, and right to left for RTL languages.</p>
