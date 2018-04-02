@@ -21,3 +21,12 @@
 
 <p> RTL content also affects the direction in which some icons and images are displayed, particularly those depicting a sequence of events.</p>
 <p>In general, the passage of time is depicted as left to right for LTR languages, and right to left for RTL languages.</p>
+
+----------
+
+
+| Element | LTR | RTL
+|--|--|--|
+|Text| Sentences are read from left to right. |Sentences are read from right to left.
+|Timeline|	An illustrated sequence of events progresses left to right. |An illustrated sequence of events progresses right to left.
+|Imagery|	An arrow pointing left to right indicates forward motion: → |An arrow pointing right to left indicates forward motion: ←
