@@ -34,6 +34,13 @@
 
 - What is **mirroring** ?
 	- When a UI is changed from LTR to RTL (or vice-versa), it’s often called **mirroring**.  An RTL layout is the mirror image of an LTR layout, and it affects layout, text, and graphics.
-	- 
+	
+	
+		
+|  LTR |RTL  |
+|--|--|
+| <img src="https://user-images.githubusercontent.com/1941933/38197490-a1ce98ac-369d-11e8-88af-e237b1412953.png" width="200">|<img src="https://user-images.githubusercontent.com/1941933/38205860-68fcf0b2-36bd-11e8-87b6-849628769508.png" width="200">
+| |
+
 	 
 - Following Item are not **mirrored**:
