@@ -40,7 +40,8 @@
 |  LTR |RTL  |
 |--|--|
 | <img src="https://user-images.githubusercontent.com/1941933/38197490-a1ce98ac-369d-11e8-88af-e237b1412953.png" width="200">|<img src="https://user-images.githubusercontent.com/1941933/38205860-68fcf0b2-36bd-11e8-87b6-849628769508.png" width="200">
-| |
+
+(Figure 1 , Mirroring Example)
 
 	 
 - Following Item are not **mirrored**:
