@@ -30,7 +30,9 @@
 |Imagery|	An arrow pointing left to right indicates forward motion: → |An arrow pointing right to left indicates forward motion: ←
 ----------
 
+----------
 # RTL UI overview
+
 
 - What is **mirroring** ?
 	- When a UI is changed from LTR to RTL (or vice-versa), it’s often called **mirroring**.  An RTL layout is the mirror image of an LTR layout, and it affects layout, text, and graphics.
@@ -43,5 +45,47 @@
 
 (Figure 1 , Mirroring Example)
 
+
 	 
 - Following Item are not **mirrored**:
+	- LTR strings and words.
+	- URL ( even included some RTL characters).
+	-  Numbers
+	
+		
+|  Correct  |Wrong   |
+|--|--|
+| <img src="https://user-images.githubusercontent.com/1941933/41205819-b44c3842-6d0f-11e8-81d0-506960e5ee40.png" width="200">|<img src="https://user-images.githubusercontent.com/1941933/41205881-b63b8e40-6d10-11e8-87a2-c297e9094198.jpg" width="200">
+
+
+(Figure 2 , Text and numbers should always be in the correct direction for the language.)
+
+
+
+# How to change LRT to RTL?
+- None RTL languages text aligned to the right.
+
+
+
+- Text filed icon aligned to opposite side.
+
+|  RTL  |LTR   |
+|--|--|
+| <img src="https://wopr.norad.org/~fxios/screenshots/fxios/v12/fa/fa/iPhone%208-04Settings-AddCustomSearchSettings-0.png" width="200"> |<img src="https://wopr.norad.org/~fxios/screenshots/fxios/v12/en-US/en-US/iPhone%208-04Settings-AddCustomSearchSettings-0.png" width="200">
+- Navigation buttons ( such as Firefox for iOS intro ) are displayed in reverse order.
+
+
+
+|  RTL  |LTR   |
+|--|--|
+| <img src="https://user-images.githubusercontent.com/1941933/41205924-b4a3e77a-6d11-11e8-96a0-21074aac7f38.png" width="200"> |<img src="https://user-images.githubusercontent.com/1941933/41205928-c4707290-6d11-11e8-85ea-88db8d3d69ba.png" width="200">
+|Swipe to the Right |Swipte to the Left |
+
+- Menu and all icons that communicate direction are mirrored.
+
+
+|  RTL  |LTR   |
+|--|--|
+| <img src="https://wopr.norad.org/~fxios/screenshots/fxios/v12/fa/fa/iPhone%208-03MenuOnTopSites-01.png" width="200"> |<img src="https://wopr.norad.org/~fxios/screenshots/fxios/v12/en-US/en-US/iPhone%208-03MenuOnTopSites-01.png" width="200">
+
+
