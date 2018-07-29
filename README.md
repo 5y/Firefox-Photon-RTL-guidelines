@@ -8,19 +8,24 @@
 </h1>
 </div>
 
-## Bidirectional Scripts
-<p>Bidirectional Scripts is written from right to left  except for the number,  such as Hebrew, Yiddish, Judezmo, Arabic, Persian, Urdu, Pashto, Sindhi, Kurdish, Syriac, Dhivehi.</p>
+# Bidirectional Scripts
+<p>Bidirectional Scripts is written from right to left  except for the number,  such as Hebrew, Yiddish, Judezmo, Arabic, Persian, Urdu, Pashto, Sindhi, Kurdish, Syriac, Dhivehi.</p> 
 
 
  - RTL : RTL languages display content from right to left.
  - LTR:  LTR languages display content from left to right.
-
+ 
 <p> UIs for languages that are read from right-to-left (RTL) should be mirrored to ensure content is easy to understand. </p>
 
-→ Bidirectional
+
+→ Bidirectional (e.g. نشاید که نامد نهد آدمی )
+
+← Directional    	(e.g. Hello World )
 
 <p> RTL content also affects the direction in which some icons and images are displayed, particularly those depicting a sequence of events.</p>
 <p>In general, the passage of time is depicted as left to right for LTR languages, and right to left for RTL languages.</p>
+
+
 
 
 | Element | LTR | RTL
@@ -28,7 +33,7 @@
 |Text| Sentences are read from left to right. |Sentences are read from right to left.
 |Timeline|	An illustrated sequence of events progresses left to right. |An illustrated sequence of events progresses right to left.
 |Imagery|	An arrow pointing left to right indicates forward motion: → |An arrow pointing right to left indicates forward motion: ←
-----------
+
 
 ----------
 # RTL UI overview
@@ -88,4 +93,16 @@
 |--|--|
 | <img src="https://wopr.norad.org/~fxios/screenshots/fxios/v12/fa/fa/iPhone%208-03MenuOnTopSites-01.png" width="200"> |<img src="https://wopr.norad.org/~fxios/screenshots/fxios/v12/en-US/en-US/iPhone%208-03MenuOnTopSites-01.png" width="200">
 
+- Text translated to the RTL languages is always aligned to the right.
+
+
+
+![image](https://user-images.githubusercontent.com/1941933/38196754-f8284792-3699-11e8-9090-f37934d8261c.png) 
+*Figure source : Behdad Esfahbod* 
+
+- Numbers such as phone, clock, keyboard and etc are the same position. However, they have different shape.
+
+|  RTL  |LTR   |
+|--|--|
+| <img src="https://user-images.githubusercontent.com/1941933/43368754-8c6d96e8-9377-11e8-91cb-2f1ed205ff22.png" width="200"> |<img src="https://user-images.githubusercontent.com/1941933/43368776-daf2b8de-9377-11e8-950c-989e3b7e8236.png" width="200">
 
