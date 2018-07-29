@@ -106,3 +106,8 @@
 |--|--|
 | <img src="https://user-images.githubusercontent.com/1941933/43368754-8c6d96e8-9377-11e8-91cb-2f1ed205ff22.png" width="200"> |<img src="https://user-images.githubusercontent.com/1941933/43368776-daf2b8de-9377-11e8-950c-989e3b7e8236.png" width="200">
 
+- Navigation buttons such as Back and Forward arrows are mirrored. Also, other icons that  communicate direction.
+
+|  RTL  |LTR   |
+|--|--|
+| <img src="https://user-images.githubusercontent.com/1941933/43369039-feab0dea-937b-11e8-84c0-2f9fbead9e58.png" width="200"> |<img src="https://user-images.githubusercontent.com/1941933/43369050-299cecda-937c-11e8-8350-c7f104ae51ec.png" width="200">
